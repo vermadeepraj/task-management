@@ -5,7 +5,7 @@ import TaskForm from './TaskForm';
 import TaskList from './TaskList';
 // import "tailwindcss"
 
-const API_URL = 'https://task-management-backend-six-umber.vercel.app/';
+const API_URL = 'https://task-management-backend-2.vercel.app/';
 
 function TaskManagement() {
   const [tasks, setTasks] = useState([]);
